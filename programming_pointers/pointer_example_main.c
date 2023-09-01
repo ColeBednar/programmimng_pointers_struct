@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+// Cole Bednar
+// Date:  8/31/23
 
 int main(void)
 {
